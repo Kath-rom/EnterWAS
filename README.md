@@ -37,6 +37,14 @@ y empleados.
 
 ## Entidades
 
+- Empleado.Manager
+- Empleado.Worker
+- Cliente
+- Solicitud
+- Servicios
+- Horas
+- Noticia
+
 ## Equipo de Desarrollo
 
 **JORGE** **ROMERO** **RUIZ**
