@@ -37,7 +37,16 @@ y empleados.
 
 ## Entidades
 
-- Empleado.Manager
+------------------
+|Empleado.Manager|
+------------------
+|*ID*            |
+|Nombre          |
+|Telefono        |
+|Area            |
+|IDEquipo        |
+------------------
+
 - Empleado.Worker
 - Cliente
 - Solicitud
@@ -45,8 +54,12 @@ y empleados.
 - Horas
 - Noticia
 
+
+
+
+
 ## Equipo de Desarrollo
 
-**JORGE** **ROMERO** **RUIZ** /n
-j.romeror@alumnos.urjc.es /n
+**JORGE** **ROMERO** **RUIZ**  
+j.romeror@alumnos.urjc.es  
 https://github.com/Kath-rom/EnterWAS.git
