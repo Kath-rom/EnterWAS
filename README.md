@@ -47,6 +47,6 @@ y empleados.
 
 ## Equipo de Desarrollo
 
-**JORGE** **ROMERO** **RUIZ**
-j.romeror@alumnos.urjc.es
+**JORGE** **ROMERO** **RUIZ** /n
+j.romeror@alumnos.urjc.es /n
 https://github.com/Kath-rom/EnterWAS.git
