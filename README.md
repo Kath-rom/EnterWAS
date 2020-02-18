@@ -37,16 +37,7 @@ y empleados.
 
 ## Entidades
 
-------------------
-|Empleado.Manager|
-------------------
-|*ID*            |
-|Nombre          |
-|Telefono        |
-|Area            |
-|IDEquipo        |
-------------------
-
+- Empleado.Manager
 - Empleado.Worker
 - Cliente
 - Solicitud
